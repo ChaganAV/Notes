@@ -1,0 +1,17 @@
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\refint\Notes.dll
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+D:\Projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\Projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\Projects\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
